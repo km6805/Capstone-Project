@@ -1,0 +1,7 @@
+App name: Kirk's Favorite Movie List
+
+	CREATE (POST) a list of my favorite movies which includes the title, description, image URL which
+the user enters in each textbox and then clicks the "Create" button to add to the existing list. The movie
+list will be displayed (GET) next underneath the form. This will include an image, title, desc, and also a star rating, which will update
+based on selection of the 5 stars.
+	
